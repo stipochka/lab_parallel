@@ -1,0 +1,3 @@
+go.mod
+cmd/lab_parallel/lab_parallel
+cmd/lab_parallel/labParallel
